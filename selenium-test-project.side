@@ -1,0 +1,21 @@
+{
+  "id": "a621e49e-71d9-4b3b-ab35-b4a7eab36176",
+  "version": "2.0",
+  "name": "selenium-test-project",
+  "url": "",
+  "tests": [{
+    "id": "3259012e-7c67-498b-8aae-e68975d9046c",
+    "name": "Untitled",
+    "commands": []
+  }],
+  "suites": [{
+    "id": "1c91740e-9cf0-4ca5-a791-083b77e041ca",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["3259012e-7c67-498b-8aae-e68975d9046c"]
+  }],
+  "urls": [],
+  "plugins": []
+}
